@@ -1,0 +1,9 @@
+.ai/
+.idea/
+.vscode/
+
+build/
+Platform/
+CMakeLists.txt
+Makefile
+

@@ -1,0 +1,8 @@
+DebugConfig/
+RTE/
+stm32-project.uvguix.Q
+stm32-project/
+test-project/
+
+*.scvd
+*.lst
